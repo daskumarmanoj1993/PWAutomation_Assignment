@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Playwright Automation Assignment
 
 ## Getting Started
@@ -156,6 +155,4 @@ npx playwright show-report
 ---
 
 ## Additional Resources
-
 - [Playwright Documentation](https://playwright.dev/docs/intro)
->>>>>>> c34d3ae5ba291f30d8d2524563e7053cfa856219
