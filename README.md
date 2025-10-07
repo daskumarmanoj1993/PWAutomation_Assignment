@@ -78,10 +78,10 @@ https://www.saucedemo.com/
 
 ### 7.Scenarios covered:
 
-Validate login for accepted user
-Validate login error messages for invalid users
-Validate product is getting selected
-Validate product is not visible when it does not exist
+Validate login for accepted user,
+Validate login error messages for invalid users,
+Validate product is getting selected,
+Validate product is not visible when it does not exist,
 Validate multiple products can be added to cart
 
 ## Additional Resources
