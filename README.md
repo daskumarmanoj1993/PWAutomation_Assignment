@@ -74,8 +74,4 @@ npx playwright show-report
 
 ## Additional Resources
 
-<<<<<<< HEAD
 - [Playwright Documentation](https://playwright.dev/docs/intro)
-=======
-- [Playwright Documentation](https://playwright.dev/docs/intro)
->>>>>>> 1138efab5ab5aa4a36ed45a5d0bb9eef1e751dc1
