@@ -76,5 +76,3 @@ npx playwright show-report
 
 - [Playwright Documentation](https://playwright.dev/docs/intro)
 
-# Playwright Automation Assignment
-
