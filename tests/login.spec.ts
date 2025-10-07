@@ -30,7 +30,7 @@ test.describe('Login Page Tests', () => {
       expect(await productPage.validateHeading()).toBeTruthy();
     });
 
-    test(`Validate login error messages for user: ${user.username}`, async ({ page }) => {
+    test(`Validate login error messages for invalid users`, async ({ page }) => {
       const loginPage = new LoginPage(page);
       await expect(loginPage.heading).toBeVisible();
 
