@@ -31,7 +31,6 @@ npm install
 Create a `.env` file in the root directory and add your base URL:
 
 ```env
-BASE_URL=https://www.saucedemo.com/
 npm install dotenv --save-dev
 ```
 
